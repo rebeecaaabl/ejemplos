@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\34640\\Desktop\\Estructura de datos\\Estructura de datos\\workspace\\Sesion 2\\Sesion 2\\Ejemplo22\\main.cpp",
+  "directory": "C:\\Users\\34640\\Desktop\\Estructura de datos\\Estructura de datos\\workspace\\Sesion 2\\Sesion 2\\Ejemplo22",
+  "command": "clang++ -c \"C:\\Users\\34640\\Desktop\\Estructura de datos\\Estructura de datos\\workspace\\Sesion 2\\Sesion 2\\Ejemplo22\\main.cpp\" -o \"C:\\Users\\34640\\Desktop\\Estructura de datos\\Estructura de datos\\workspace\\Sesion 2\\Sesion 2\\Ejemplo22\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
